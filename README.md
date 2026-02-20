@@ -5,7 +5,6 @@
 ![London Journey Planner](https://img.shields.io/badge/TfL-Powered-E32017?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI+PGNpcmNsZSBjeD0iMjQiIGN5PSIyNCIgcj0iMjIiIGZpbGw9IiNFMzIwMTciLz48L3N2Zz4=)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ---
 
@@ -168,9 +167,9 @@ Returns server status.
 
 ---
 
-## 📜 License
+## 📜 Github Repo :
 
-MIT © [Parth Panchal](https://github.com/panchalparth22)
+[Parth Panchal](https://github.com/panchalparth22)
 
 ---
 
@@ -178,5 +177,6 @@ MIT © [Parth Panchal](https://github.com/panchalparth22)
   <sub>Powered by the <a href="https://api-portal.tfl.gov.uk/">TfL Unified API</a> · Built with ❤️ in London</sub>
 </div>
 ```
+
 
 
