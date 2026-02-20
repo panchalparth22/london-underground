@@ -1,4 +1,3 @@
-```markdown
 # 🚇 London Journey Planner
 
 > Real-time London transit planner for Tube, DLR & Elizabeth line — built with React, Node.js and the TfL Unified API.
@@ -98,7 +97,6 @@ node index.js
 # From the root directory
 npm install
 npm run dev
-```
 
 > Frontend runs on `http://localhost:5173`
 
@@ -180,4 +178,5 @@ MIT © [Parth Panchal](https://github.com/panchalparth22)
   <sub>Powered by the <a href="https://api-portal.tfl.gov.uk/">TfL Unified API</a> · Built with ❤️ in London</sub>
 </div>
 ```
+
 
