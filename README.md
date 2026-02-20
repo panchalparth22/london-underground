@@ -35,17 +35,21 @@
 ## 📁 Project Structure
 
 ```
-london-journey-planner/
+london-underground/
 ├── london-journey-backend/
 │   ├── index.js          # Express server + TfL API logic
 │   ├── .env              # TfL API key (not committed)
 │   └── package.json
-├── src/
-│   ├── App.jsx           # Full React frontend
-│   └── main.jsx
-├── public/
-├── index.html
-└── package.json
+├── london-journey-frontend/
+│   ├── src/
+│   │   ├── App.jsx       # Full React frontend
+│   │   └── main.jsx
+│   ├── public/
+│   ├── index.html
+│   └── package.json
+├── .gitignore
+└── README.md
+
 ```
 
 ---
@@ -177,6 +181,7 @@ Returns server status.
   <sub>Powered by the <a href="https://api-portal.tfl.gov.uk/">TfL Unified API</a> · Built with ❤️ in London</sub>
 </div>
 ```
+
 
 
 
