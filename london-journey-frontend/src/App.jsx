@@ -1,3 +1,4 @@
+// Main application code
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 
@@ -26,6 +27,7 @@ function formatDuration(mins) {
   if (!mins) return '';
   return mins < 60 ? `${mins} min` : `${Math.floor(mins / 60)}h${mins % 60 > 0 ? ` ${mins % 60}m` : ''}`;
 }
+
 
 function cleanName(name) {
   return (name || '')
